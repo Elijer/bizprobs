@@ -14,3 +14,6 @@ For lack of another term, I've started to call these types of challenges busines
 In an effort to define them and to start compiling a list of them, I've started this repo.
 
 It's a mix of questions I've recieved in real interviews and ones I've asked chatbots for. I hope it's helpful!
+
+# Disclaimers
+- I don't gaurantee correctness of any code here. A good deal of these results have just been copied and pasted in here, many of them from chatbots.
