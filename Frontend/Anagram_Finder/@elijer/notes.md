@@ -24,3 +24,8 @@ So we're missing a ton.
 I found a much larger list of words, but I ran an ETL on it to get a JSON map locally so we didn't need a network.
 Kind of silly to use a network for 3000 words too tbh.
 That's in [folder 2](/.2)
+
+Some other notes
+- would be good to handle the load time and let users know that the JSON hasn't been loaded yet, if it takes any time on slower machines (it may not)
+- would be cool to show how MANY matches there are as a summary
+- for inputs like this, debouncing can be good IF there is network involved, which is there is not in my #2 solution
