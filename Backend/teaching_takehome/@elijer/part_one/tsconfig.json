@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "sourceMap": true,
+    "outDir": "./dist",
+    "target": "es2020",
+    "module": "esnext",
+    "moduleResolution": "node",
+  }
+}
