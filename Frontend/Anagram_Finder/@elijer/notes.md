@@ -29,3 +29,11 @@ Some other notes
 - would be good to handle the load time and let users know that the JSON hasn't been loaded yet, if it takes any time on slower machines (it may not)
 - would be cool to show how MANY matches there are as a summary
 - for inputs like this, debouncing can be good IF there is network involved, which is there is not in my #2 solution
+
+# Second solution
+The english language is estimated to have between 500K-1M words. I found a list that has 500K. A lot of words aren't frequently used. Who knows though, maybe those are the best ones to use a for an anagram finder!
+
+I was actually kind of surprised to find how finite the english language is. It's not that 500K isn't a lot. It's that...it has a limit, and a limit I can very much comprehend.
+
+
+Anyways, 500K words s
